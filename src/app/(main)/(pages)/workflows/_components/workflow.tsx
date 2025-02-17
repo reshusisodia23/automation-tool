@@ -79,3 +79,4 @@ const Workflow = ({ description, id, name, publish }: Props) => {
 }
 
 export default Workflow
+
